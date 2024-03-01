@@ -1,4 +1,4 @@
-# Helsinki Outdoor Gym Usage Statistical Analysis
+# Helsinki Outdoor Gym Usage Analysis
 
 ## Quickstart
 
